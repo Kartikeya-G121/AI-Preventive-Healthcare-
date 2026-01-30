@@ -184,8 +184,4 @@ Built as a hackathon project focusing on **AI for preventive healthcare innovati
 -Dimple Hirwani 
 -Brahmansh Bora
 
----
 
-## 🎤 Project Pitch
-
-> "We built a multi-agent preventive healthcare AI system using IBM Granite and Langflow that transforms lifestyle data into early health risk insights using guideline-based reasoning — enabling prevention before illness."
