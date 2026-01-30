@@ -1,11 +1,11 @@
-# 🧠 AI-Based Preventive Health Risk Assessment System
+#  AI-Based Preventive Health Risk Assessment System
 
 A multi-agent preventive healthcare intelligence system built using **DataStax Langflow** and **IBM watsonx (Granite models)**.
 This system analyzes lifestyle data, detects preventive health risks using RAG on healthcare guidelines, and provides assistive wellness insights.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To build an intelligent **preventive healthcare system** that:
 
@@ -17,7 +17,7 @@ To build an intelligent **preventive healthcare system** that:
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```
 User Input (Lifestyle Data)
@@ -33,7 +33,7 @@ Preventive Health Report
 
 ---
 
-## 🧱 Core Components
+## Core Components
 
 ### 1. Lifestyle Data Analysis Agent
 
@@ -66,7 +66,7 @@ Preventive Health Report
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 * **Langflow (DataStax)** – Visual AI orchestration
 * **IBM watsonx.ai** – Foundation model platform
@@ -75,7 +75,7 @@ Preventive Health Report
 
 ---
 
-## 📚 Knowledge Sources (RAG)
+## Knowledge Sources (RAG)
 
 * WHO preventive healthcare guidelines
 * Nutrition and wellness frameworks
@@ -86,7 +86,7 @@ Preventive Health Report
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 * Multi-agent AI system
 * Preventive healthcare focus
@@ -99,7 +99,7 @@ Preventive Health Report
 
 ---
 
-## ⚠️ Ethical & Safety Design
+## Ethical & Safety Design
 
 This system is:
 
@@ -118,7 +118,7 @@ This system is:
 
 ---
 
-## 🧪 Example Input
+## Example Input
 
 ```
 Activity: Sedentary lifestyle, 2k steps/day
@@ -129,7 +129,7 @@ Stress: High academic stress
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 * Lifestyle Risk Level: High
 * Preventive Risks:
@@ -158,7 +158,7 @@ This project demonstrates:
   
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * User health dashboards
 * Risk scoring engine
@@ -171,13 +171,13 @@ This project demonstrates:
 
 ---
 
-## 📜 License
+## License
 
 This project is developed for **educational, research, and hackathon purposes**.
 
 ---
 
-## 👥 Team
+## Team
 
 Built as a hackathon project focusing on **AI for preventive healthcare innovation**.
 -Kartikeya Gupta 
