@@ -180,8 +180,9 @@ This project is developed for **educational, research, and hackathon purposes**.
 ## Team
 
 Built as a hackathon project focusing on **AI for preventive healthcare innovation**.
--Kartikeya Gupta 
--Dimple Hirwani 
--Brahmansh Bora
+
+- Kartikeya Gupta 
+- Dimple Hirwani 
+- Brahmansh Bora
 
 
